@@ -1,5 +1,5 @@
 # Regular expressions common when validating data related to Venezuela.
-## Expresiónes regulares para validar data relacionada a Venezolana.
+## Expresiónes regulares para validar data relacionada a Venezuela.
 
 ### ID document - Cédula de Identidad
 ```javascript
